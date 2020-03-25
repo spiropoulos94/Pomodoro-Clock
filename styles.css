@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color:red;
+    background-color: black;
+}
+
+.description {
+    font-style: italic;
+    width: 30vw;
+}
+
+.timer {
+    font-size: 15vw;
+    
+}
+
+.finishMessage {
+    font-size: 8vw;
+    color:red;
+
+}
+
+p{
+    font-style:italic;
+    margin: 10vw;
+}
